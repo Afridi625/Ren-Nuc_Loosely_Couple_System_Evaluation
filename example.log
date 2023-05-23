@@ -1,0 +1,84 @@
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+NameError: name 'Total_curtailment_cost' is not defined
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    NameError: name 'Total_curtailment_cost' is not defined
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+NameError: name 'Total_curtailment_cost' is not defined
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    NameError: name 'Total_curtailment_cost' is not defined
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
+WARNING:pyomo.core:Implicitly replacing the Component attribute coupling_limit_constraint (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>) on block unknown with a new Component (type=<class 'pyomo.core.base.constraint.IndexedConstraint'>).
+This is usually indicative of a modelling error.
+To avoid this warning, use block.del_component() and block.add_component().
+ERROR:pyomo.core:Rule failed when generating expression for Objective ObjectiveFuntion with index None:
+AttributeError: 'function' object has no attribute 'is_expression_type'
+ERROR:pyomo.core:Constructing component 'ObjectiveFuntion' from data=None failed:
+    AttributeError: 'function' object has no attribute 'is_expression_type'
